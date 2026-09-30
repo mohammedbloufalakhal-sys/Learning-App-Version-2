@@ -1,0 +1,8 @@
+{
+  "name": "fluent180",
+  "version": "2.0.0",
+  "private": true,
+  "description": "Fluent180 — 180-day adaptive AI English & career coach",
+  "engines": { "node": ">=18" },
+  "scripts": { "dev": "node dev-server.js" }
+}
